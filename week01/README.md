@@ -32,8 +32,8 @@
 
 # Professional Accounts
 
-- **GitHub:** https://github.com/youngstunna02
-- **LinkedIn:** https://www.linkedin.com/in/benedict-james-gellido-6b9607324
+- **GitHub:** https://www.linkedin.com/in/mikhail-cordova-b2468638a/
+- **LinkedIn:** https://github.com/jeon-ju
 
 ---
 
