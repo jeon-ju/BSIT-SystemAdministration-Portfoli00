@@ -4,12 +4,12 @@
 
 | Information | Details |
 |---|---|
-| **Student** | Mikhail Jeon Lorrenzo M. Cordova |
+| **Student** | Mikhail Jeon Lorrenzo Mercado Cordova |
 | **Program / Section** | BSIT 4C |
 | **Course** | ITEP 414 – System Administration and Maintenance |
 | **Project** | Enterprise Infrastructure Plan |
 | **Date** | October 31, 2026 |
-
+   
 ---
 
 ## Project Overview
